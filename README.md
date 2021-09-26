@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Frontend => React | NextJS | Redux | Redux-toolkit | Material-UI | TailwindCSS | GraphQl | GraphQl Apollo-Client  | StoryBook
-- 🌐 &nbsp; Backend  => NodeJs | NestJs | AdonisJs | Aws Lambda | MicroServices Architecture | Express | Loopback4 | Laravel(4.8-7) 
-- 💻 &nbsp; AWS => Aws Lambda , DynamoDB | EC2 | S3 | RDS | Route53 | AppSync | Cognito | Lambda | API Gateway | SES | SNS | AmplifyServerless 
-- 🔧 &nbsp; Others => CI/CD | Docker | Jenkins 
+- 💻 &nbsp; <b>Frontend => </b>React | NextJS | Redux | Redux-toolkit | Material-UI | TailwindCSS | GraphQl | GraphQl Apollo-Client  | StoryBook | MicroFrontend
+- 🌐 &nbsp; <b>Backend  => </b>NodeJs | NestJs | AdonisJs | Aws Lambda | Prisma | LaunchDarkly MicroServices Architecture | Express | Loopback4 | Laravel(4.8-7) 
+- 💻 &nbsp; <b>AWS =></b> Aws Lambda , DynamoDB | EC2 | S3 | RDS | Route53 | AppSync | Cognito | Lambda | API Gateway | SES | SNS | AmplifyServerless 
+- 🔧 &nbsp; <b>Others => <b/> CI/CD | Docker | Jenkins | MicroServices | N-tier Architecture
 
 <br>
 
