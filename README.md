@@ -1,5 +1,6 @@
-<h2> Hey there! I'm Haseeb Javed (Senior developer and Software Architect). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Haseeb Javed (Lead developer and Software Architect). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://mianhaseeb.dev/images/haseebProfile.jpeg" width="300"/>
+<h2> 👨🏻‍💻 Ex Accenture, PWC & CitiBank </h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
